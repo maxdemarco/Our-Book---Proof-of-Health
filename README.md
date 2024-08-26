@@ -1,6 +1,6 @@
 # Our-Book---Proof-of-Health
 
-This gut is our central hub for organizing the writing process and brainstorming ideas for our group book on living a self-sovereign life. Here’s what you need to know:
+This git is our central hub for organizing the writing process and brainstorming ideas for our group book on living a self-sovereign life. Here’s what you need to know:
 
 Purpose of the git:
 
